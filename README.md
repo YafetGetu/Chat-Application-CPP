@@ -22,11 +22,11 @@ Supports multiple clients, private messaging, undo/redo, search, and chat histor
 ---
 
 ## 📂 Project Structure
-project/
-│── main_client.cpp # Client-side source code
-│── main_server.cpp # Server-side source code
-│── README.md # Project documentation
-│── .gitignore # Ignored files (build, binaries, zips)
+- project/
+- │── main_client.cpp # Client-side source code
+- │── main_server.cpp # Server-side source code
+- │── README.md # Project documentation
+- │── .gitignore # Ignored files (build, binaries, zips)
 
 
 ---
@@ -43,6 +43,10 @@ project/
 ### 1. Compile the server
 ```bash
 g++ main_server.cpp -o server -lws2_32
+
+```
+
+---
 
 ##  Chat Commands
 
