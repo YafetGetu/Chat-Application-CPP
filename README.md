@@ -50,6 +50,7 @@ g++ main_server.cpp -o server -lws2_32
 
 ##  Chat Commands
 
+```
 /join <room>           - Join or create a chat room
 /pm <user> <message>   - Send private message to a user
 /reply <user> <msg>    - Reply to a user in the current room
@@ -60,3 +61,4 @@ g++ main_server.cpp -o server -lws2_32
 /quit                  - Exit the chat application
 /help                  - Show help menu
 
+```
