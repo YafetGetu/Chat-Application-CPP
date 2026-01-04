@@ -10,18 +10,18 @@ Supports multiple clients, private messaging, undo/redo, search, and chat histor
 
 ---
 
-## ✨ Features
-- 🔗 **Multi-room chat**: Join or create rooms dynamically  
-- 👤 **Private messaging**: Send direct messages to specific users  
-- ↩️ **Undo & Redo**: Undo your last message and redo if needed  
-- 📜 **Message history**: View conversation history in a room  
-- 🔍 **Search**: Find messages by keyword  
-- 🚪 **/quit command**: Clean exit from the server  
-- 🧵 **Multithreaded**: Uses threads for concurrent communication  
+##  Features
+-  **Multi-room chat**: Join or create rooms dynamically  
+-  **Private messaging**: Send direct messages to specific users  
+-  **Undo & Redo**: Undo your last message and redo if needed  
+-  **Message history**: View conversation history in a room  
+-  **Search**: Find messages by keyword  
+-  **/quit command**: Clean exit from the server  
+-  **Multithreaded**: Uses threads for concurrent communication  
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 - project/
 - │── main_client.cpp # Client-side source code
 - │── main_server.cpp # Server-side source code
@@ -31,14 +31,14 @@ Supports multiple clients, private messaging, undo/redo, search, and chat histor
 
 ---
 
-## ⚙️ Requirements
+##  Requirements
 - Windows OS  
 - C++17 or later  
 - Winsock2 library  
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Compile the server
 ```bash
