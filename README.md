@@ -1,9 +1,6 @@
-# 💬 Chat Application in C++ (Winsock)
+#  Chat Application in C++ (Winsock)
 
 [![C++](https://img.shields.io/badge/Language-C++-blue.svg)](https://isocpp.org/) 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/YafetGetu/Chat-Application-CPP?style=social)](https://github.com/YafetGetu/Chat-Application-CPP/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/YafetGetu/Chat-Application-CPP?style=social)](https://github.com/YafetGetu/Chat-Application-CPP/network/members)
 
 A real-time multi-room chat application built in **C++** using **Winsock**.  
 Supports multiple clients, private messaging, undo/redo, search, and chat history.
